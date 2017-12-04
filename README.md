@@ -1,2 +1,3 @@
 # hello-world
-A repository
+Hi friends,
+My name is Drost and I like to make websites.
